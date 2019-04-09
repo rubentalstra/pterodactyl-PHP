@@ -1,2 +1,2 @@
-# pterodactyl-PHP
+# pterodactyl-PHP-POST
 pterodactyl PHP post scripts
