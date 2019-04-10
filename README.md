@@ -1,7 +1,7 @@
 # pterodactyl-PHP-POST
 pterodactyl PHP post scripts
 
-<code>
+```JSON
   {
   "object": "user",
   "attributes": {
@@ -22,4 +22,4 @@ pterodactyl PHP post scripts
     "resource": "https:\/\/pterodactyl.development.deluxenode.com\/api\/application\/users\/7"
   }
 }
-  </code>
+```
