@@ -1,10 +1,10 @@
 # pterodactyl-PHP-POST
-pterodactyl PHP post scripts
+pterodactyl api PHP post scripts
 
 
 
 
-This will be your output 
+This will be your output of the PHP file 
 
 ```JSON
   {
