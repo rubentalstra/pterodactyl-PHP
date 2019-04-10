@@ -1,6 +1,11 @@
 # pterodactyl-PHP-POST
 pterodactyl PHP post scripts
 
+
+
+
+This will be your output 
+
 ```JSON
   {
   "object": "user",
