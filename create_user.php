@@ -1,13 +1,22 @@
 <?php
-$url = 'https://YOUR.URL/api/application/';
+$external_id = $_POST['external_id'];
+$first_name = $_POST['first_name'];
+$last_name = $_POST['last_name'];
+$email = $_POST['email'];
+$username = $_POST['username'];
+$language = $_POST['language']
+$password = $_POST['password'];
+
+$url = 'https://YOUR_URL_HERE/api/application/';
 $params = array(
-"external_id" => "2", //Optional
-    "email" => 'test@test.com',
-    "username" => 'TestUser',
-    "first_name" => 'Test',
-    "last_name" => 'User',
-    "language" => 'en',
-    "password" => '123456'
+    "external_id" => $external_id, //Optional
+    "email" => $email,
+    "username" => $username,
+    "first_name" => $first_name,
+    "last_name" => $last_name,
+    "language" => $language,
+    "root_admin": 'false', // false is default option. 'true' create admin user's
+    "password" => $password,
 );
 
 $ch = curl_init();
