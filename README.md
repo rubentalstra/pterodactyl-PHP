@@ -2,9 +2,13 @@
 
 pterodactyl api PHP post scripts
 
+### language options
+
+here are the language options for
 
 
 
+### PHP script output
 This will be your output of the PHP file 
 
 ```JSON
