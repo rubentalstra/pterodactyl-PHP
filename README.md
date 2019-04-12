@@ -45,7 +45,7 @@ This will be your output of the PHP file
     "updated_at": "2019-11-20T03:05:23+00:00"
   },
   "meta": {
-    "resource": "https:\/\/YOUR_URL_HERE\/api\/application\/users\/7"
+    "resource": "https:\/\/YOUR_URL_HERE\/api\/application\/users\/1"
   }
 }
 ```
