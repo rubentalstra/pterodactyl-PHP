@@ -29,7 +29,7 @@ This will be your output of the PHP file
   {
   "object": "user",
   "attributes": {
-    "id": 7,
+    "id": 1,
     "external_id": null,
     "uuid": "68b23b39-f172-4cd3-ba4a-ef5761c01374",
     "username": "example",
@@ -39,8 +39,8 @@ This will be your output of the PHP file
     "language": "en",
     "root_admin": false,
     "2fa": false,
-    "created_at": "2018-11-20T03:05:23+00:00",
-    "updated_at": "2018-11-20T03:05:23+00:00"
+    "created_at": "2019-11-20T03:05:23+00:00",
+    "updated_at": "2019-11-20T03:05:23+00:00"
   },
   "meta": {
     "resource": "https:\/\/YOUR_URL_HERE\/api\/application\/users\/7"
