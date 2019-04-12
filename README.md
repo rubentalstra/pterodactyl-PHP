@@ -3,9 +3,9 @@
 pterodactyl api PHP post scripts
 
 
----
-### language options
 
+### language options
+---
 here are the language options for
 
 language name | language code
@@ -23,8 +23,9 @@ Türkçe | tr
 中文 (Zhōngwén), 汉语, 漢語 | zh
 
 
----
+
 ### PHP script output
+---
 This will be your output of the PHP file 
 
 ```JSON
