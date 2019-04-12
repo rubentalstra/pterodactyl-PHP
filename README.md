@@ -20,7 +20,11 @@ Limba Română | ro
 Türkçe | tr
 中文 (Zhōngwén), 汉语, 漢語 | zh
 
+---
+language name: Feature request
+language code: Suggest an idea for this project
 
+---
 
 ### PHP script output
 This will be your output of the PHP file 
