@@ -1,5 +1,5 @@
 # pterodactyl-PHP-POST
-
+[![Build Status](https://travis-ci.com/rubentalstra/pterodactyl-PHP.svg?branch=master)](https://travis-ci.com/rubentalstra/pterodactyl-PHP)
 pterodactyl api PHP post scripts
 
 
