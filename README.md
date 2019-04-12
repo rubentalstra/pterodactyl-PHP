@@ -6,6 +6,20 @@ pterodactyl api PHP post scripts
 
 here are the language options for
 
+language name | language code
+------------ | -------------
+Deutsch | de
+English | en
+Español | es
+Eesti, Eesti Keel | et
+Français, Langue Française | fr
+Italiano | it
+Nederlands, Vlaams | nl
+Limba Română | ro
+Русский | ru
+Türkçe | tr
+中文 (Zhōngwén), 汉语, 漢語 | zh
+
 
 
 ### PHP script output
