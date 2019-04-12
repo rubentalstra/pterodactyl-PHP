@@ -1,5 +1,6 @@
 # pterodactyl-PHP-POST
 [![Build Status](https://travis-ci.com/rubentalstra/pterodactyl-PHP.svg?branch=v1.0)](https://travis-ci.com/rubentalstra/pterodactyl-PHP)
+[![Build Status](https://travis-ci.com/rubentalstra/pterodactyl-PHP.svg?branch=add-code-of-conduct-1)](https://travis-ci.com/rubentalstra/pterodactyl-PHP)
 
 
 pterodactyl api PHP post scripts
